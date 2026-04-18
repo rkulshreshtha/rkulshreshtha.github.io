@@ -1,5 +1,33 @@
 # The Ultimate Bengaluru Apartment Buyer's Guide
 
+
+---
+### Bangalore Apartment Buyer Checklist (2026 Edition)
+
+| Phase | Checklist Item | Critical Details & Mandates |
+| :--- | :--- | :--- |
+| **1. Financial Planning** | **The 25/30 Rule** | Secure a **25% down payment** and ensure monthly EMIs do not exceed **30% of take-home pay**. |
+| | **Statutory Costs** | Budget **7.6% - 7.8%** of property value for government fees (Stamp Duty: 5%, Registration: 2%, Surcharge/Cess: ~0.6%). |
+| | **GST Differential** | Under-construction units attract **5% GST**; ready-to-move units with an **Occupancy Certificate (OC)** save this cost. |
+| | **Hidden Charges** | Factor in **Car Parking** (₹5–₹8 Lakh; 18% GST if billed separately), **Corpus Fund**, and **Utility Deposits** (BESCOM/BWSSB). |
+| **2. Legal & RERA** | **Title Verification** | Verify a **30-to-50-year title chain** including the **Mother Deed** and registered Sale Deeds. |
+| | **Nil EC** | Obtain a **30-year Nil Encumbrance Certificate** to ensure no active mortgages or litigations. |
+| | **K-RERA Audit** | Confirm active registration, **70% escrow compliance**, and **Quarterly Progress Reports (QPR)**. |
+| | **DC Conversion** | For peripheral or BMRDA zones, verify the **District Commissioner (DC) Conversion order** for residential use. |
+| | **Carpet Area** | Ensure pricing is based on the **RERA-filed Carpet Area**, not the Super Built-Up Area (SBA). |
+| **3. Water Security** | **Supply Audit** | Verify source: **Cauvery** (TDS 150-300 ppm) vs. **Borewell/Tanker** (TDS 1000+ ppm). |
+| | **Sustainability** | Prioritize projects with **recharge wells** and **Sewage Treatment Plants (STP)** capable of **70% recycling**. |
+| | **RWH Compliance** | Rainwater Harvesting is mandatory; non-compliance leads to a **25%–50% penalty** on BWSSB bills. |
+| **4. Mobility** | **The 2km Rule** | Buy within **2 kilometres** of a metro station to ensure value appreciation and escape road traffic. |
+| | **Metro Timeline** | **Pink Line** (Dec 2026), **Blue Line** (Sept 2026), and **Yellow Line** (Already operational as of 2025). |
+| **5. Ergonomics** | **Liquidity Zone** | **Floors 5 to 12** are most liquid; avoid Ground Floor units as they resell for **15%–20% less**. |
+| | **Orientation** | Avoid **south-facing units**, which are often rejected by a large portion of the Bangalore buyer pool. |
+| | **Sweet Spot Config** | Avoid 2BHKs >1,300 sq ft; **2.5BHKs** or standard 3BHKs offer better long-term resale liquidity. |
+| **6. Governance** | **Khata Status** | Property must be eligible for **A-Khata**; avoid B-Khata to ensure OC and bank financing. |
+| | **AOA Structure** | Ensure the Association is registered under **KAOA 1972** for legal authority over common areas. |
+| | **Utility Transfer** | After purchase, immediately transfer **BESCOM** and **BWSSB** accounts to your name using the RR number. |
+---
+
 | Phase | Criterion | Guideline / Rule |
 | :--- | :--- | :--- |
 | **1. Financial Reality Check** | **The "25/30" Rule** | Ensure you have ≥25% of the home's value saved upfront for the down payment, and your EMI does not exceed 30% of your net take-home pay. |
