@@ -1,0 +1,15 @@
+# Real Estate Liquidity Traps for Bangalore Buyers
+
+Extracted from the community discussions and data shared by real estate professionals in the r/indianrealestate thread.
+
+| The Buyer Trap | Reasoning / Ground Reality |
+| :--- | :--- |
+| **The Ground Floor "Premium" Trap** | Buying a GF flat without securing a 15-20% discount upfront. **Reality:** Future buyers will demand a discount due to lack of privacy, views, and mosquito issues. If you pay full price, you absorb the loss on exit. |
+| **The South-Facing Main Door (Vastu Barrier)** | Ignoring Vastu just because you don't personally believe in it. **Reality:** Over 70% of the resale market cares. Buying a south-facing entrance drastically shrinks your future buyer pool. *(Note: South-facing balconies, however, are highly desirable for winter sun/summer shade).* |
+| **The "View-less" Middle Floor** | Buying a flat that directly faces a blank wall, neighbor, or service shaft. **Reality:** Squeezed from both ends. You can't compete with the GF on price, and you lose to higher floors on vibe. It becomes a pure "commodity" unit—last to sell, first to get lowballed. |
+| **The Over-Sized 2BHK (>1300 sq. ft.)** | Paying a premium (₹1.5Cr+) for a massive 2BHK. **Reality:** At that price point, buyer psychology shifts. Most will simply add 10-15% to their budget to get a proper 3BHK. It completely outprices its target demographic. *(Conversely, 2.5BHKs are a liquidity sweet spot).* |
+| **The Top Floor Blindspot** | Assuming the top floor will command an easy premium for the views. **Reality:** The "Top Floor Fear" is deeply ingrained. Buyers fear terrace seepage, low water pressure, and intense summer heat, making these high-friction exits unless heavily discounted. |
+| **The Small Society (<100 Units) Trap** | Buying into a boutique building for privacy and expecting long-term appreciation. **Reality:** They age poorly after 10 years. Small RWAs lack large corpus funds for major repairs, maintenance slips, and they become heavily tenant-dominated. |
+| **Old Homes from Tier-3 Builders** | Buying a 12+ year-old flat from an unknown or smaller developer. **Reality:** A paperwork and legal nightmare. Smaller builders vanish, making documentation impossible to source. For older properties, stick strictly to the "Big 4" (Sobha, Prestige, Puravankara, Brigade) who have professional back-offices. |
+| **The 13th Floor Stigma (Triskaidekaphobia)** | Paying the standard floor-rise premium for flat number 13. **Reality:** Even though it's purely superstition, 80-90% of buyers and developers avoid it. If you don't get a 5-10% discount at purchase, you will struggle to find a buyer willing to overlook the "bad luck" factor at full price. |
+| **Anchoring to "New Launch" Prices** | Sellers quoting 5+ year old resale flats at exactly the same price as a brand-new launch next door, minus a token ₹5 Lakh discount. **Reality:** Buyers aren't stupid; right valuation must factor in depreciation, floor disadvantages, and society age, not just current peak market hype. |
