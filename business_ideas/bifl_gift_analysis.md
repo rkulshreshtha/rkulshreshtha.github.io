@@ -4,6 +4,28 @@
 
 ---
 
+# BIFL Small Gift Analysis: India Market Perspective
+
+| Rank | Item | Upvotes | India Status | Business Idea |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Yeti Tumbler | 2.2K | Problem | Locally manufactured premium vacuum gear. |
+| 2 | Key Holder | 599 | Available | Magnetic slap-wall strips for keys/fobs. |
+| 3 | Packing Cubes | 492 | Available | |
+| 4 | Back Scratcher | 428 | Available | |
+| 5 | Measuring Tape | 417 | Available | |
+| 6 | Spoon Rest | 362 | Problem | Ethnic-design rests for large Indian ladles. |
+| 7 | Bowl Cozy | 292 | Problem | "Katori" cozies for hot stainless steel bowls. |
+| 8 | Tongue Scraper | 242 | Available | |
+| 9 | Valet Tray | 217 | Problem | Jute/Leather landing trays for hotels. |
+| 10 | Bugzooka | 164 | Problem | Humane lizard capture and release tools. |
+| 11 | Garlic Peeler | 68+ | Available | |
+| 12 | SS Soap Fish | 68 | Problem | Odor-stripping hand bars for Indian kitchens. |
+| 13 | Tube Scraper | 17 | Problem | Durable metal turnkeys for eco-frugality. |
+| 14 | Darn Tough Socks | 5+ | Problem | Lifetime replacement performance trekking socks. |
+
+
+---
+
 ## Ranked Gift Items & Business Strategy
 
 | Rank | Gift Item | Est. Upvotes | Status | Business Problem / Idea |
